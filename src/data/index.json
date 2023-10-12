@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "src": "./GTR-logo.webp",
+    "title": "Front-End",
+    "Description": "Lorem ipsum dolor set amet, consectetur adipiscing elite sespenmdisse varius eim in eros elementum tristique"
+  },
+  {
+    "id": "2",
+    "src": "./GTR-logo.webp",
+    "title": "Back-End",
+    "Description": "Lorem ipsum dolor set amet, consectetur adipiscing elite sespenmdisse varius eim in eros elementum tristique"
+  },
+  {
+    "id": "3",
+    "src": "./GTR-logo.webp",
+    "title": "UI @ UX Desing",
+    "Description": "Lorem ipsum dolor set amet, consectetur adipiscing elite sespenmdisse varius eim in eros elementum tristique"
+  },
+  {
+    "id": "4",
+    "src": "./GTR-logo.webp",
+    "title": "Front-End",
+    "Description": "Lorem ipsum dolor set amet, consectetur adipiscing elite sespenmdisse varius eim in eros elementum tristique"
+  }
+]
+
